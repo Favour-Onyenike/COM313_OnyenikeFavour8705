@@ -11,10 +11,12 @@ string c = "CSharp";
 Console.WriteLine("The values are {0}, {1} and {2}", a, b, c);
 
 // TODO: Using string interpolation, the code is much easier to read
+console.writeline( $"the values are: {a},{b} and {c}");
 
 
 // TODO: Interpolated strings can contain expressions as well
-
+console.writeline( $"(a+b)/b is  {(a+b)/b}");
+console.writeline( $"(a+b)/b is  {(a+b)/b}");
 
 // TODO: Complex objects can be embedded in strings this way as well
 
