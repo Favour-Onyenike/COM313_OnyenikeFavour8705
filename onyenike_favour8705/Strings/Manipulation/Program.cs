@@ -6,18 +6,32 @@ string str2 = "This is a string";
 string str3 = "THIS is a STRING";
 string[] strs = {"one", "two", "three", "four"};
 
-// TODO: Length of a string jjjjjjj
-// TODO: Access individual characters
+// TODO: Length of a string 
+ Console.WriteLine(str1.Length);
 
+// TODO: Access individual characters
+ Console.WriteLine(str1[14]);
 
 // TODO: Iterate over a string like any other sequence of values
-
+foreach( char ch in str1){
+    Console.Write(ch);
+    if(ch =='b'){
+        Console.WriteLine();
+        break;
+    }
+}
 
 // TODO: String Concatenation         
 string outstr;
+outstr = string.Concat(strs);
+Console.WriteLine(outstr);
 
 
 // TODO: Joining strings together with Join
+outstr = string.Join('.', strs);
+Console.WriteLine(outstr);
+outstr = string.Join("---", strs);
+Console.WriteLine(outstr);
 
 
 // TODO: String Comparison
@@ -33,3 +47,5 @@ string outstr;
 
 
 // TODO: Replacing content
+ outstr = str1.Replace("fox", "cat");
+Console.WriteLine($"{outstr}");

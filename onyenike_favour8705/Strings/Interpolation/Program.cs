@@ -18,5 +18,6 @@ console.writeline( $"the values are: {a},{b} and {c}");
 console.writeline( $"(a+b)/b is  {(a+b)/b}");
 console.writeline( $"(a+b)/b is  {(a+b)/b}");
 
+
 // TODO: Complex objects can be embedded in strings this way as well
 

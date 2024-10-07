@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\COM319\COM313_OnyenikeFavour8705\onyenike_favour8705\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\COM319\COM313_OnyenikeFavour8705\onyenike_favour8705\Strings\Interpolation\obj\Debug\net6.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\COM319\COM313_OnyenikeFavour8705\onyenike_favour8705\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\COM319\COM313_OnyenikeFavour8705\onyenike_favour8705\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfo.cs
+C:\Users\HP\Desktop\COM319\COM313_OnyenikeFavour8705\onyenike_favour8705\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.CoreCompileInputs.cache
