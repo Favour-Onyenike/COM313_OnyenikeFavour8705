@@ -6,9 +6,7 @@ string str2 = "This is a string";
 string str3 = "THIS is a STRING";
 string[] strs = {"one", "two", "three", "four"};
 
-// TODO: Length of a string 
-
-
+// TODO: Length of a string jjjjjjj
 // TODO: Access individual characters
 
 
